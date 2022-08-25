@@ -14,6 +14,7 @@ Aviato is the ultimate e-commerce front-end solution based on Bootstrap 3. Along
 * [Download from]
 (https://themefisher.com/products/aviato-e-commerce-template/)
 
+
 ------
 
 2. Sneat - Free Bootstrap 5 HTML Admin Template
@@ -41,3 +42,19 @@ A multi theme, completely accessible, with components and pages examples, ready 
 
 * [Download from]
 (https://windmillui.com/dashboard-html)
+
+
+------
+
+4. Dashboard - Software UI dashboard tailwind
+
+Soft UI Dashboard Tailwind is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files and classes.
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Free TailwindCSS Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+* [Live Preview]
+(https://demos.creative-tim.com/soft-ui-dashboard-tailwind/pages/dashboard.html)
+
+* [Download from]
+(https://github.com/creativetimofficial/soft-ui-dashboard-tailwind?ref=soft-ui-dashboard-tailwind-docs)
+
+------
